@@ -1,0 +1,100 @@
+Validation DataLoader 0:  85%|########4 | 259/306 [21:22<03:52,  4.95s/it][A
+
+Validation DataLoader 0:  85%|########4 | 260/306 [21:26<03:47,  4.95s/it][A
+
+Validation DataLoader 0:  85%|########5 | 261/306 [21:31<03:42,  4.95s/it][A
+
+Validation DataLoader 0:  86%|########5 | 262/306 [21:34<03:37,  4.94s/it][A
+
+Validation DataLoader 0:  86%|########5 | 263/306 [21:38<03:32,  4.94s/it][A
+
+Validation DataLoader 0:  86%|########6 | 264/306 [21:44<03:27,  4.94s/it][A
+
+Validation DataLoader 0:  87%|########6 | 265/306 [21:48<03:22,  4.94s/it][A
+
+Validation DataLoader 0:  87%|########6 | 266/306 [21:55<03:17,  4.95s/it][A
+
+Validation DataLoader 0:  87%|########7 | 267/306 [22:02<03:13,  4.95s/it][A
+
+Validation DataLoader 0:  88%|########7 | 268/306 [22:07<03:08,  4.95s/it][A
+
+Validation DataLoader 0:  88%|########7 | 269/306 [22:09<03:02,  4.94s/it][A
+
+Validation DataLoader 0:  88%|########8 | 270/306 [22:14<02:57,  4.94s/it][A
+
+Validation DataLoader 0:  89%|########8 | 271/306 [22:21<02:53,  4.95s/it][A
+
+Validation DataLoader 0:  89%|########8 | 272/306 [22:26<02:48,  4.95s/it][A
+
+Validation DataLoader 0:  89%|########9 | 273/306 [22:31<02:43,  4.95s/it][A
+
+Validation DataLoader 0:  90%|########9 | 274/306 [22:35<02:38,  4.95s/it][A
+
+Validation DataLoader 0:  90%|########9 | 275/306 [22:39<02:33,  4.94s/it][A
+
+Validation DataLoader 0:  90%|######### | 276/306 [22:45<02:28,  4.95s/it][A
+
+Validation DataLoader 0:  91%|######### | 277/306 [22:46<02:23,  4.93s/it][A
+
+Validation DataLoader 0:  91%|######### | 278/306 [22:54<02:18,  4.95s/it][A
+
+Validation DataLoader 0:  91%|#########1| 279/306 [23:00<02:13,  4.95s/it][A
+
+Validation DataLoader 0:  92%|#########1| 280/306 [23:06<02:08,  4.95s/it][A
+
+Validation DataLoader 0:  92%|#########1| 281/306 [23:09<02:03,  4.94s/it][A
+
+Validation DataLoader 0:  92%|#########2| 282/306 [23:13<01:58,  4.94s/it][A
+
+Validation DataLoader 0:  92%|#########2| 283/306 [23:21<01:53,  4.95s/it][A
+
+Validation DataLoader 0:  93%|#########2| 284/306 [23:26<01:48,  4.95s/it][A
+
+Validation DataLoader 0:  93%|#########3| 285/306 [23:31<01:43,  4.95s/it][A
+
+Validation DataLoader 0:  93%|#########3| 286/306 [23:34<01:38,  4.95s/it][A
+
+Validation DataLoader 0:  94%|#########3| 287/306 [23:40<01:34,  4.95s/it][A
+
+Validation DataLoader 0:  94%|#########4| 288/306 [23:43<01:28,  4.94s/it][A
+
+Validation DataLoader 0:  94%|#########4| 289/306 [23:50<01:24,  4.95s/it][A
+
+Validation DataLoader 0:  95%|#########4| 290/306 [23:51<01:18,  4.94s/it][A
+
+Validation DataLoader 0:  95%|#########5| 291/306 [23:59<01:14,  4.95s/it][A
+
+Validation DataLoader 0:  95%|#########5| 292/306 [24:01<01:09,  4.94s/it][A
+
+Validation DataLoader 0:  96%|#########5| 293/306 [24:11<01:04,  4.95s/it][A
+
+Validation DataLoader 0:  96%|#########6| 294/306 [24:13<00:59,  4.94s/it][A
+
+Validation DataLoader 0:  96%|#########6| 295/306 [24:20<00:54,  4.95s/it][A
+
+Validation DataLoader 0:  97%|#########6| 296/306 [24:25<00:49,  4.95s/it][A
+
+Validation DataLoader 0:  97%|#########7| 297/306 [24:27<00:44,  4.94s/it][A
+
+Validation DataLoader 0:  97%|#########7| 298/306 [24:31<00:39,  4.94s/it][A
+
+Validation DataLoader 0:  98%|#########7| 299/306 [24:36<00:34,  4.94s/it][A
+
+Validation DataLoader 0:  98%|#########8| 300/306 [24:44<00:29,  4.95s/it][A
+
+Validation DataLoader 0:  98%|#########8| 301/306 [24:47<00:24,  4.94s/it][A
+
+Validation DataLoader 0:  99%|#########8| 302/306 [24:50<00:19,  4.94s/it][A
+
+Validation DataLoader 0:  99%|#########9| 303/306 [24:55<00:14,  4.94s/it][A
+
+Validation DataLoader 0:  99%|#########9| 304/306 [25:03<00:09,  4.95s/it][A
+
+Validation DataLoader 0: 100%|#########9| 305/306 [25:09<00:04,  4.95s/it][A
+
+Validation DataLoader 0: 100%|##########| 306/306 [25:13<00:00,  4.95s/it][A
+Epoch 9: 100%|##########| 306/306 [2:02:56<00:00, 24.11s/it, v_num=lsjg, train_loss=0.512, val_loss=0.338]
+
+                                                                          [A
+Epoch 9: 100%|##########| 306/306 [2:02:56<00:00, 24.11s/it, v_num=lsjg, train_loss=0.512, val_loss=0.338]
+Epoch 9: 100%|##########| 306/306 [2:03:06<00:00, 24.14s/it, v_num=lsjg, train_loss=0.512, val_loss=0.338]
